@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400);
 @import url(http://fonts.googleapis.com/css?family=Bitter:400);
 
-html,body {
+body {
 	height:100%;
     background:center no-repeat fixed url('2015C.jpg');
     background-size: cover;
