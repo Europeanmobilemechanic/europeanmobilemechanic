@@ -132,7 +132,7 @@ section {background-color: rgba(0,0,0,0.0);
 
 @media (min-width:768px) {
     .v-center {
-        height: 50%;
+        height: 15%;
         overflow: visible;
         margin: auto;
         position: absolute;
