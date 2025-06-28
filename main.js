@@ -1,6 +1,7 @@
 /* activate scrollspy menu */
-var scrollSpy = new bootstrap.ScrollSpy(document.body, {
-  target: '#navbar-collapsible'
+$('body').scrollspy({
+  target: '#navbar-collapsible',
+  offset: 52
 });
 /* smooth scrolling sections */
 $('a[href*=#]:not([href=#])').click(function() {
